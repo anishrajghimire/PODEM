@@ -287,7 +287,7 @@ int podemRecursion(NODE *graph, int Max, LIST **dfrontier, int faultID, int faul
     }
     end = clock();
     cpu_time = ((double)(end - start)) / CLOCKS_PER_SEC;
-    if (cpu_time > 1)
+    if (cpu_time > 0.2)
     {
         return 2;
     }
