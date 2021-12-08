@@ -48,7 +48,7 @@ void main(int argc, char **argv)
         if (podem == 1)
         {
             fprintf(fres, "%d/SAF %d \n", faultID, faultVALUE);
-            testPattern(Max, graph, faultValue, fres); // print the test patterns
+            testPattern(Max, graph, faultVALUE, fres); // print the test patterns
             detectedFault++;
         }
         else if (podem == 2)
@@ -74,7 +74,7 @@ void main(int argc, char **argv)
         if (podem == 1)
         {
             fprintf(fres, "%d/SAF %d \n", faultID, faultVALUE);
-            testPattern(Max, graph, faultValue, fres); // print the test patterns
+            testPattern(Max, graph, faultVALUE, fres); // print the test patterns
             detectedFault++;
         }
         else if (podem == 2)
