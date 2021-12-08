@@ -1,0 +1,73 @@
+1/SAF 0 
+101xx
+2/SAF 0 
+x10xx
+3/SAF 0 
+11111
+6/SAF 0 
+x1111
+7/SAF 0 
+x00x1
+8/SAF 0 
+101xx
+9/SAF 0 
+x1111
+10/SAF 0 
+00xxx
+11/SAF 0 
+x10xx
+14/SAF 0 
+x10xx
+15/SAF 0 
+x00x1
+16/SAF 0 
+00xxx
+19/SAF 0 
+xx11x
+20/SAF 0 
+00xxx
+21/SAF 0 
+x011x
+22/SAF 0 
+1x1xx
+23/SAF 0 
+x10xx
+1/SAF 1 
+001xx
+2/SAF 1 
+x00xx
+3/SAF 1 
+11011
+6/SAF 1 
+x1101
+7/SAF 1 
+x00x0
+8/SAF 1 
+100xx
+9/SAF 1 
+x101x
+10/SAF 1 
+101xx
+11/SAF 1 
+x1111
+14/SAF 1 
+x111x
+15/SAF 1 
+xx111
+16/SAF 1 
+x10xx
+19/SAF 1 
+x00x1
+20/SAF 1 
+x10xx
+21/SAF 1 
+x10x0
+22/SAF 1 
+00xxx
+23/SAF 1 
+x011x
+
+Total Faults Detected: 34 
+Total Faults Aborted: 0 
+Untestable Faults:0 
+Fault Coverage is 100.000000
